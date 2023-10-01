@@ -1,0 +1,13 @@
+print : signica escreva,faz o programa escrever oq estiver dento das '()'
+int:números inteiros
+float: numeros reais ou de ponto flutuantes
+bool:valores lógicos ou boleanos sendo sempre "True" ou "False"
+str:valores,caracteres ou strings.Sendo essas usadas sempre entre ''
+input: esse sendo usado para atribuir um valor,por exemplo:name = input('Qual é o seu nome?')
+=: esse sendo lido como "recebe"
+
+
+int ex: 7,-4,0,9875
+float ex: 4.5,0.076,-15.223,7.0
+str ex :'Olá','7.5',''
+
